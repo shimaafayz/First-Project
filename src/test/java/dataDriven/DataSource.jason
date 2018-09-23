@@ -1,0 +1,16 @@
+[
+{
+"firstname" :"test1",
+ "lastname" :"test2",
+ "email" :"tetsnew@gmail.com",
+ "password":"123567",
+ "conpass":"123567"
+},
+{
+"firstname" :"test99",
+ "lastname" :"test22",
+ "email" :"tetsnew11@gmail.com",
+ "password":"123567",
+ "conpass":"123567"
+}
+]
